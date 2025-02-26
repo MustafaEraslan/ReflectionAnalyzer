@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KI6tDXcG+TY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mustafaeraslan\\source\\repos\\ReflectionAnalyzer\\ReflectionAnalyzer\\ReflectionAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mustafaeraslan\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100\\microsoft.net.sdk.compilers.toolset.9.0.100.nupkg.sha512",
+    "C:\\Users\\mustafaeraslan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\mustafaeraslan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\mustafaeraslan\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.36\\microsoft.netcore.app.host.win-arm64.6.0.36.nupkg.sha512",
+    "C:\\Users\\mustafaeraslan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
